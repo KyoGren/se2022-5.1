@@ -7,6 +7,6 @@
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/StarsCurrency/3.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/StarsCurrency/4.png">
 <h1 style="justify:center">Nghiên cứu label hiển thị số tiền</h1>
-<h3>giống với khi thực hiện với trái ngôi sao do dùng chung 1 file mã <b style="color:red">"CurrencyDisplay"</b></h3>
+<h3>giống với khi thực hiện với trái ngôi sao do dùng chung 1 file mã <b style="color:red;">"CurrencyDisplay"</b></h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/CoinCurrency/1.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/CoinCurrency/2.png">
