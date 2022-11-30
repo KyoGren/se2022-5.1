@@ -1,5 +1,5 @@
 # se2022-5.1
-<h1 style="justify:center">Ngiên cứu hiện thì màn hình khởi đâu khi vào Game</h1>
+<h1 style="justify:center">Ngiên cứu hiện thì màn hình khởi đầu khi vào Game</h1>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/StartImg/Start_Screen.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/StartCode/StartScreen_Position.png">
 <h3>lần đầu tiên chạy chương trình thì màn hình hiện tại (currentScreen) sẽ được Awake khởi tạo</h3>
