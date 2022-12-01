@@ -8,5 +8,7 @@
 <h3>Các hàm bên trên sẽ được thiết lập thêm để <b>"Hide"</b> màn hình hiện tại và <b>"Show"</b> phần khởi chạy của đổi tượng tiếp theo</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/StartCode/Load_Push_Screen.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/StartCode/Setup_Code.png">
+<h3>Khi đó màn hình load sẽ được đẩy vào thành CurrentScreen và thực hiện Load trước khi vào Game</h3>
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/StartImg/LoadingScreen.png">
 <h3>Ngoài ra khi thoát khỏi App cần code để Screen sẽ khởi chạy lại được thiết kế trong <b>"SplashScreen"</b></h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/StartCode/NewScreen_After_Quit_Code.png">
