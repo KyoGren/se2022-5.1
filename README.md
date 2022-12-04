@@ -33,3 +33,9 @@ trong cảnh mua hàng thì có những chức năng cơ bản như:
 <p>nhấn vào button NextButtonPrefab thực hiện chuyển tiếp sang trang 2 (page 2)</p>
 <p>hàm thực hiện quay trở lại cảnh trò chơi</p>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/CoinCurrency/10.png">
+<h1>LiveCurrency</h1>
+<p> thực hiện hiển thị số mang (số lượt chơi). mạng sẽ giảm đi khi thất bại màn chơi game match3 và sẽ phải chờ thời gian hồi</p>
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/LivesCurrency/1.png">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/LivesCurrency/2.png">
+
+
