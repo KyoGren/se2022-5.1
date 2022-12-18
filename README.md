@@ -29,4 +29,4 @@
 <h3>- Một game có nhiều thành phần cấu tạo lên như hình cảnh va chạm , tính toán vật lý ,.. gọi là 1 component của game object </h3>
 <h3> - Sprite là một hình ảnh 2D của game object </h3>
 <h3> - Animation là một tập hợp hình động dựa trên thay đổi liên tục của nhiều sprite khác nhau  </h3>
-<img src="https://github.com/KyoGren/se2022-5.1/blob/dinhQuang/unity_component/animation.PNG">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/dinhQuang/unity_component/annimation.PNG">
