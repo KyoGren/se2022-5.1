@@ -17,7 +17,7 @@
 <h3>Theo đó với ví dụ Map Veranda được khởi tạo các hình ảnh ở Assets/Scripts/Sprites được khởi tạo khi trò chơi chạy (MainUI hoạt động). Khi đó các function của từng hình ảnh muốn chèn sẽ được khởi tạo tại Room0090_Veranda_First. Các đặc tính với ví dụ minh họa trang trí đầu tiên fenceprops sẽ được hiểnn thị bên dưới</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Img/Decorate_Eg.png">
 <h3>Các vị trí bản có thể trang trí tạo những nơi đang có ngôi sao dấu + trên màn chơi. Vị trí này được thực hiện bằng code CharacterBubblePosition trong file DecorateScene.cs</h3>
-<img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Img/Decorate_Eg.png">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Img/Decorate_Eg2.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Code/DecorateScene_Position.png">
 <h3>Theo đó, các đặc tính của một vật trang trí gồm Groupname và hoạt ảnh Amination</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Code/DecorateScene_GroupDef.png">
