@@ -15,4 +15,4 @@
 
 <h1 style="justify:center">2. Ngiên cứu trang trí map bằng ngôi sao nhận được</h1>
 <h3>Theo đó với ví dụ Map Veranda được khởi tạo các hình ảnh ở Assets/Scripts/Sprites được khởi tạo khi trò chơi chạy (MainUI hoạt động). Khi đó các function của từng hình ảnh muốn chèn sẽ được khởi tạo tại Room0090_Veranda_First. Các đặc tính sẽ được hiện thị bên dưới</h3>
-<img src="[https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/StartImg/Start_Screen.pn](https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Img/Decorate_Eg.png">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Img/Decorate_Eg.png">
