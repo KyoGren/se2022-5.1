@@ -33,6 +33,6 @@
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Code/DecorateScene_Update.png">
 <h3>Còn nếu bạn khổng đủ ngôi sao, hàm điều kiện kiểm tra sẽ đưa đến cấu trúc yêu cầu chơi game</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Img/Not_Enough_Star.png">
-<h3>Các điều kiện để có thể trang trí được hay không hay khởi tạo màn hình chơi game mới có thể trang trí đều nằm trong function MoveNext()</h3>
+<h3>Các điều kiện để có thể trang trí được hay không hay khởi tạo màn hình chơi game mới có thể trang trí đều nằm trong function MoveNext() bằng cách kiểm tra int num = this._003C_003E1__state chính là số ngôi sao hiện có. Nếu != 0 thì cho phép trang trí và số ngôi sao -1, ngược lại set một khu vực có cấu trúc trên</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Code/DecorateScene_MoveNext.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Code/DecorateScene_MoveNext2.png">
