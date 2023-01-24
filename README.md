@@ -38,4 +38,18 @@ trong cảnh mua hàng thì có những chức năng cơ bản như:
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/LivesCurrency/1.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/LivesCurrency/2.png">
 
+<hr>
+<h1> Tìm hiểu về nút setting</h1>
+<p>Khi nhấn vào nút setting nó sẽ gọi kiểm tra trong cảnh DecorateRoomScreen gọi đến hàm OnSettingsButtonPress để chuyển sang cảnh InGameSettingsScreen<p>
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/ButtonSetting/1.jng">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/ButtonSetting/2.jng">
+<p> Trong cảnh InGameSettingsScreen có nút thoát , nút chỉnh âm thanh, nhạc hoạt động với các chức năng thoát trở về màn hình chính, thay đổi tắt bật âm thanh, âm nhạc</p>
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/LivesCurrency/3.png">
+<p> Khi nhấn nút X sẽ gọi đến hàm OnExit để chuyển về màn hình chính</p>
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/LivesCurrency/4.png">
+<p> Nhấn tắt bật âm thanh sẽ gọi đến hàm OnClick để thay đổi trạng thái và cập nhật lại trên trò chơi</p>
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/LivesCurrency/5.png">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/LivesCurrency/6.png">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/LivesCurrency/7.png">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/LivesCurrency/8.png">
 
