@@ -9,6 +9,6 @@ Lớp kĩ thuật điện tử và tin học<br>
 <h3>Hình ảnh trên cũng là ví dụ cách mà bạn trang trí. Để muốn căn nhà của bạn trở lên đẹp hơn, hào nhoàng hơn bạn có thể lựa chọn 1 trong 3 cách mà bạn muốn mua đối với đồ dùng trong căn nhà theo mong muốn của mình. Cách thức mà đồ trang trí đồ đạc hoạt động như star, coin trong source code được tìm hiểu trong branch TungNguyen</h3>
 <h3>Nhưng bạn không thể mua mọi thứ miễn phí được, mỗi vật phẩm được lựa chọn sẽ tiêu tốn những tài nguyên nhất định. Các tài nguyên đó bạn có thể tìm hiểu trong branch TuanDo</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/StarsCurrency/1.png">
-<Để trải nghiệm đầy đủ nhất, tựa game được thêm các chức năng như:
+<h3>Để trải nghiệm đầy đủ nhất, tựa game được thêm các chức năng như:
     Button Home: lựa chọn màn chơi được tìm hiểu tại branch AnhQuan
     Setting: Thiết lập mức độ âm thanh và nhạc tại branch TuanDo</h3>
