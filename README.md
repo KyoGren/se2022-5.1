@@ -10,5 +10,8 @@ Lớp kĩ thuật điện tử và tin học<br>
 <h3>Nhưng bạn không thể mua mọi thứ miễn phí được, mỗi vật phẩm được lựa chọn sẽ tiêu tốn những tài nguyên nhất định. Các tài nguyên đó được coi như một loại tiền ảo như star, coin  đó bạn có thể tìm hiểu trong branch TuanDo</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/StarsCurrency/1.png">
 <h3>Để trải nghiệm đầy đủ nhất, tựa game được thêm các chức năng như:</h3>
-<h4>&ensp    Button Home: lựa chọn màn chơi được tìm hiểu tại branch AnhQuan</h4>
-<h4>    Setting: Thiết lập mức độ âm thanh và nhạc tại branch TuanDo</h4>
+<h4>+ Button Home: lựa chọn màn chơi được tìm hiểu tại branch AnhQuan</h4>
+<h4>+ Setting: Thiết lập mức độ âm thanh và nhạc tại branch TuanDo</h4>
+<img src="https://github.com/KyoGren/se2022-5.1/blob/AnhQuan/HomeButton/Pic_2_HomeButton.png">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/ButtonSetting/1.jpg">
+<hr/>
