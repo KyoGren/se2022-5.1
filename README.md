@@ -52,4 +52,26 @@ trong cảnh mua hàng thì có những chức năng cơ bản như:
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/ButtonSetting/6.jpg">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/ButtonSetting/7.jpg">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/ButtonSetting/8.jpg">
-
+<hr>
+<h1> Màn hình chơi trong game match3</h1>
+<p> Trong sence GameScreen -> sence GoalsPanel -> content là hiển thị thanh cấp độ, điều kiện để qua màn và số nước đi tối đa</p>
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/1.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/2.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/3.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/4.jpg">
+<p> Sau mỗi khi chơi thì số lượt sẽ giảm đi và nếu ăn được đúng loại chip thì điều kiện sẽ trừ đi, khi đk hết mà vẫn còn lượt thì sẽ qua màn còn ko sẽ thất bại</p>
+<h1> meunu thoát game</h1>
+<p> bằng việc bấm vào nút răng cưa hiển thị thanh hiện nút exit bấm vào kích hoạt thông của sổ thông báo và thoát trở về màn hình game decor</h1>
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/5.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/6.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/7.jpg">
+<h1> game play and event </h1>
+<p> Các chip khi được match với nhau mà đúng thì sẽ xảy ra sự kiện như kích hoạt animation, biến mất thay đổi thành các sự kiện như bom, đồng thời sinh ra các chip mới, màu sác mới thay thế chỗ các chip đã biến mất </p>
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/16.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/15.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/14.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/13.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/12.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/11.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/10.jpg">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/9.jpg">
