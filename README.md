@@ -76,7 +76,7 @@ Lớp kĩ thuật điện tử và tin học<br>
 <h4>- HorizonRocket: được khởi tạo khi di chuyển block thành một hàng ngang gồm 4 block trùng nhau</h4>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Match3Gameplay/M3G_Img/Single_Affect/HorizonRocket/Before_HorizonRocket.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Match3Gameplay/M3G_Img/Single_Affect/HorizonRocket/Done_HorizonRocket.png">
-<h4>- VerticalRocket: Tương tự như HorizonRocket nhưng theo hàng dọc
+<h4>- VerticalRocket: Tương tự như HorizonRocket nhưng theo hàng dọc</h4>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Match3Gameplay/M3G_Img/Single_Affect/VerticalRocket/Before_VerticalRocket.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Match3Gameplay/M3G_Img/Single_Affect/VerticalRocket/Done_VerticalRocket.png">
 <h4>- SeekingMissle: được tạo ra khi kết hợp thành 4 block hình vuông</h4>
@@ -103,6 +103,9 @@ Lớp kĩ thuật điện tử và tin học<br>
 <hr/>
 <h2 style="justify:center">3. Ý tưởng thiết kế Button Reset Decorate</h2>
 <h3>&nbsp&nbsp Nhóm chúng tôi muốn tạo nên một ý tưởng thiết kế một Button khiến những trang trí của bạn trước đó khởi tạo lại để giúp bạn thay thế toàn bộ về màn chờ ban đầu. Tất nhiên ban sẽ được trả lại những ngôi sao bạn đã dùng để làm điều đó. Chúng tôi đã tạo một Project để cả nhóm vào góp ý để hiểu rõ hơn về source code. Nếu muốn tìm hiểu bạn có thể đi vào đường liên kết của dự án https://github.com/KyoGren/se2022-5.1/issues/53</h3>
+<img src="https://user-images.githubusercontent.com/95405402/214495079-1c9e90fc-3a83-4769-adf1-c18cec05948c.png">
+<h3>Add Component hoạt động cần tạo hàm Reset trong File DecoratingScene và DecoratingSceneConfig. Trong đó Scene là file chứa hàm và SceneConfig chủ yếu là hiện thị các thành phần trong Map</h3>
+<img src="https://user-images.githubusercontent.com/95405402/214494922-f3286375-ce99-462f-b044-b075f0977e8f.png">
 </hr>
 <<h2 style="justify:center">Extra: một vài chức năng phụ</h2>
 <h3>&nbsp&nbsp + Màn hình chờ trước khi bắt đầu Game tại branch TungNguyen</h3>
