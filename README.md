@@ -3,7 +3,7 @@ Lớp kĩ thuật điện tử và tin học<br>
 #Lập trình game casual thể loại match 3 kết hợp trang trí nhà
 <h3>Theo đó phần Review này sẽ giới thiệu các thành phần chính về tựa Game Home Decor qua bằng hình ảnh. Còn muốn tìm hiểu rõ hơn các thành phần và ý nghĩa của từng phần trong source code, các bạn có thể đi sâu và nghiên cứu của từng thành viên trong nhóm chúng tôi</h3>
 <h1 style="justify:center">Chức năng chính của Game</h1>
-<h3>&nbsp&nbspUnity là một game engine đa nền tảng được phát triển bởi Unity Technologies, mà chủ yếu để phát triển video game cho máy tính, consoles và điện thoại. Trước khi bắt đầu tìm hiểu về tựa game, các bạn có thể tìm hiểu một chút về các thành phần cơ bản trong Unity Hub như: </h3>
+<h3>&nbsp&nbspUnity là một game engine đa nền tảng được phát triển bởi Unity Technologies, mà chủ yếu để phát triển video game cho máy tính, consoles và điện thoại. Trước khi bắt đầu tìm hiểu về tựa game, các bạn có thể tìm hiểu một chút về các thành phần cơ bản trong Unity Hub như (branch dinhQuang): </h3>
 <h4>Cửa sổ sences: Hiển thị đối tượng một cách trực quan và có thể kéo thả phóng to thu nhỏ</h4>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/dinhQuang/unity_component/sences.PNG">
 <h4>Tab hierarchy: hiển thị các Game object trong sences hiện hành . Khi các đối tượng được thêm hoặc xóa trong sences , tương ứng với các đối tượng có trong hierarchy</h4>
@@ -13,8 +13,8 @@ Lớp kĩ thuật điện tử và tin học<br>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/dinhQuang/unity_component/inspector.PNG">
 <h2 style="justify:center">1. Trang trí nhà cửa</h2>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Img/Frenceprops_1.png">
-<h3>&nbsp&nbspHình ảnh trên cũng là ví dụ cách mà bạn trang trí. Để muốn căn nhà của bạn trở lên đẹp hơn, hào nhoàng hơn bạn có thể lựa chọn 1 trong 3 cách mà bạn muốn mua đối với đồ dùng trong căn nhà theo mong muốn của mình. Cách thức mà đồ trang trí đồ đạc hoạt động như trong source code được tìm hiểu trong branch TungNguyen</h3>
-<h3>&nbsp&nbspNhưng bạn không thể mua mọi thứ miễn phí được, mỗi vật phẩm được lựa chọn sẽ tiêu tốn những tài nguyên nhất định. Các tài nguyên đó được coi như một loại tiền ảo như star, coin. Các đối tượng trên chủ yếu nằm trong phần CurrencyPanel: </h3>
+<h3>&nbsp&nbspHình ảnh trên cũng là ví dụ cách mà bạn trang trí. Để muốn căn nhà của bạn trở lên đẹp hơn, hào nhoàng hơn bạn có thể lựa chọn 1 trong 3 cách mà bạn muốn mua đối với đồ dùng trong căn nhà theo mong muốn của mình. Cách thức mà đồ trang trí đồ đạc hoạt động như trong source code được tìm hiểu (branch TungNguyen)</h3>
+<h3>&nbsp&nbspNhưng bạn không thể mua mọi thứ miễn phí được, mỗi vật phẩm được lựa chọn sẽ tiêu tốn những tài nguyên nhất định. Các tài nguyên đó được coi như một loại tiền ảo như star, coin. Các đối tượng trên chủ yếu nằm trong phần CurrencyPanel (brach TuanDo): </h3>
 <h4>Star: số lần cho phép trang trí</h4>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/StarsCurrency/1.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/StarsCurrency/2.png">
@@ -30,8 +30,8 @@ Lớp kĩ thuật điện tử và tin học<br>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/CoinCurrency/7.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/CoinCurrency/8.png">
 <h3>&nbsp&nbsp Để trải nghiệm đầy đủ nhất, tựa game được thêm các chức năng như:</h3>
-<h4>&nbsp&nbsp + Button Home: lựa chọn màn chơi</h4>
-<h4>&nbsp&nbsp + Setting: Thiết lập mức độ âm thanh và nhạc</h4>
+<h4>&nbsp&nbsp + Button Home: lựa chọn màn chơi (brach AnhQuan)</h4>
+<h4>&nbsp&nbsp + Setting: Thiết lập mức độ âm thanh và nhạc (branch TuanDo)</h4>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/AnhQuan/HomeButton/Pic_2_HomeButton.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/ButtonSetting/1.jpg">
 <h3>Thiết kế trang trí sẽ không bị giới hạn ở một màn chơi duy nhất, các Room khác sẽ được mở khóa khi bắt đã hoàn thành màn chơi đầu tiên. Chức năng này cho phép bạn đổi màn chơi của mình để tiếp tục trang trí những thứ khác trong ngôi nhà của mình. Nút Home được đặt tại vị trí(x, y) = (66, 63,75) trên màn hình hiển thị, có chiều dài và chiều rộng(height, width) = (106, 106) </h3>
@@ -45,7 +45,7 @@ Lớp kĩ thuật điện tử và tin học<br>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/ButtonSetting/4.jpg">
 <h3> Khi hoàn thành những thay đổi thiết lập của bạn, nhấn nút X sẽ gọi đến hàm OnExit để chuyển về màn hình chính. Nhấn tắt bật âm thanh sẽ gọi đến hàm OnClick để thay đổi trạng thái và cập nhật lại trên trò chơi</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/ButtonSetting/4.jpg">
-<h3>Bạn sẽ trang trí bằng ngôi sao kiếm được thông qua mỗi khi vượt qua vòng chơi GameMatch3. Khi đó vật trang trí sẽ được khởi tạo và một ngôi sao bị mất. Mỗi phần trang trí đều có 3 lựa chọn để thay đổi</h3>
+<h3>Bạn sẽ trang trí bằng ngôi sao kiếm được thông qua mỗi khi vượt qua vòng chơi GameMatch3. Khi đó vật trang trí sẽ được khởi tạo và một ngôi sao bị mất. Mỗi phần trang trí đều có 3 lựa chọn để thay đổi (brach TungNguyen)</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Img/Frenceprops_1.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Img/Door_2.png">
 <h3>Còn nếu bạn khổng đủ ngôi sao, hàm điều kiện kiểm tra sẽ đưa đến cấu trúc yêu cầu chơi game</h3>
@@ -62,14 +62,14 @@ Lớp kĩ thuật điện tử và tin học<br>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/NguyenTrung/Img/PlayButtonclick.png">
 <h3>Ở màn hình Pregame có nút play, nếu bấm vào thì chúng ta sẽ vào được màn chơi đó được tạo  ButtonCallback_OnPlayButtonClick</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/NguyenTrung/Img/ButtonCallback_OnPlayButtonClickedcode.png">
-<h3>Nhiệm vụ đơn giản của các tự game dạng Match3 là di chuyển thành các hàng hoặc cột gồm 3 khối block giống hệt nhau. Khi đó thì các block sẽ biến mất và các block sẽ rơi xuống</h3>
+<h3>Nhiệm vụ đơn giản của các tự game dạng Match3 là di chuyển thành các hàng hoặc cột gồm 3 khối block giống hệt nhau. Khi đó thì các block sẽ biến mất và các block sẽ rơi xuống(branch TungNguyen)</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Match3/Code_Match3/Move1.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Match3/Code_Match3/Move2.png">
 <h3> Theo đó phần code đễ di chuyển các khối block chủ yếu dựa vào engine có săn để tích hợp với màn hình điện thoại. Quá trinh đó bao gồm 2 bước là TrySwitchSlot và TapOnSlot. TapOnSlot có hàm powerupsUseByTap chính là cách bạn nhấn vào màn hình và chọn khối block mà bạn muốn</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Match3/Code_Match3/TapOnSlot.png">
 <h3>Còn Switch slot chính là cấu trúc để bạn có thể tráo đổi 2 khối block với nhau</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Match3/Code_Match3/Swtich_slot.png">
-<h3>Ngoài việc cách kết hợp 3 khối block thành một hàng hoặc cột để hoàn thành vòng chơi, trò chơi được thêm vào các khối block đặc biệt. Tuy nhiên yêu cầu để tạo ra chúng cũng khó khăn hơn việc di chuyển block thông thường. Các khối block này khiến cho trò chơi vui vẻ hơn rất nhiều: </h3>
+<h3>Ngoài việc cách kết hợp 3 khối block thành một hàng hoặc cột để hoàn thành vòng chơi, trò chơi được thêm vào các khối block đặc biệt. Tuy nhiên yêu cầu để tạo ra chúng cũng khó khăn hơn việc di chuyển block thông thường. Các khối block này khiến cho trò chơi vui vẻ hơn rất nhiều (brach TungNguyen): </h3>
 <h4>- Cross Bomb: được tạo ra khi các khối block có kết hợp theo hình dạng dấu cộng</h4>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Match3Gameplay/M3G_Img/Single_Affect/CrossBomb/Before_Cross_Bom.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Match3Gameplay/M3G_Img/Single_Affect/CrossBomb/Done_Cross_Bom.png">
@@ -95,7 +95,7 @@ Lớp kĩ thuật điện tử và tin học<br>
 <h4>SeekingMissle + CrossBomb: lần này tại vị trí máy bay bay đến, sẽ nổ với kích thước như CrossBomb</h4>
 <h3> Các cách thức trên được kết hợp dựa vào một function kết hợp. Một List combines bao gồm CombineType khác nhau được khởi tạo tại Line 2563. Ở đó được set điều kiện đối với có thể kết hợp với các CombineType khác nhau hoặc Double[CombineType]. Hàm SelecPotentialMatch Line 2611 là hàm di chuyển chính để xác nhận chúng đã Match với nhau</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Match3Gameplay/M3G_Code/Combine.png">
-<h3> meunu thoát game</h3>
+<h3> meunu thoát game (branch TuanDo)</h3>
 <p> Bằng việc bấm vào nút răng cưa hiển thị thanh hiện nút exit bấm vào kích hoạt thông của sổ thông báo và thoát trở về màn hình game decor</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/5.jpg">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/gameScreen/6.jpg">
@@ -108,11 +108,11 @@ Lớp kĩ thuật điện tử và tin học<br>
 <img src="https://user-images.githubusercontent.com/95405402/214494922-f3286375-ce99-462f-b044-b075f0977e8f.png">
 </hr>
 <<h2 style="justify:center">Extra: một vài chức năng phụ</h2>
-<h3>&nbsp&nbsp + Màn hình chờ trước khi bắt đầu Game tại branch TungNguyen</h3>
+<h3>&nbsp&nbsp + Màn hình chờ trước khi bắt đầu Game (branch TungNguyen)</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/StartImg/Start_Screen.png">
 <h3>Các hàm bên dưới sẽ được thiết lập thêm để <b>"Hide"</b> màn hình hiện tại và <b>"Show"</b> phần khởi chạy của đổi tượng tiếp theo</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/StartCode/Load_Push_Screen.png">
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/StartCode/Setup_Code.png">
-<h3>&nbsp&nbsp + Màn hình chờ trước khi bắt đầu Match 3 Game</h3>
+<h3>&nbsp&nbsp + Màn hình chờ trước khi bắt đầu Match 3 Game (brach NguyenTrung)</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/NguyenTrung/Img/Itemselect.jpg">
   
