@@ -3,7 +3,7 @@ Lớp kĩ thuật điện tử và tin học<br>
 #Lập trình game casual thể loại match 3 kết hợp trang trí nhà
 <h3>Theo đó phần Review này sẽ giới thiệu các thành phần chính về tựa Game Home Decor qua bằng hình ảnh. Còn muốn tìm hiểu rõ hơn các thành phần và ý nghĩa của từng phần trong source code, các bạn có thể đi sâu và nghiên cứu của từng thành viên trong nhóm chúng tôi</h3>
 <h1 style="justify:center">Chức năng chính của Game</h1>
-<h3>&nbsp&nbspUnity là một game engine đa nền tảng được phát triển bởi Unity Technologies, mà chủ yếu để phát triển video game cho máy tính, consoles và điện thoại. Trước khi bắt đầu tìm hiểu về tựa game, các bạn có thể tìm hiểu một chút về các thành phần cơ bản trong Unity Hub như (branch dinhQuang): </h3>
+<h3>&nbsp&nbspUnity là một game engine đa nền tảng được phát triển bởi Unity Technologies, mà chủ yếu để phát triển video game cho máy tính, consoles và điện thoại. Trước khi bắt đầu tìm hiểu về tựa game, các bạn có thể tìm hiểu một chút về các thành phần cơ bản trong Unity Hub như (branch <a href="https://github.com/KyoGren/se2022-5.1/tree/dinhQuang">dinhQuang</a>): </h3>
 <h4>Cửa sổ sences: Hiển thị đối tượng một cách trực quan và có thể kéo thả phóng to thu nhỏ</h4>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/dinhQuang/unity_component/sences.PNG">
 <h4>Tab hierarchy: hiển thị các Game object trong sences hiện hành . Khi các đối tượng được thêm hoặc xóa trong sences , tương ứng với các đối tượng có trong hierarchy</h4>
