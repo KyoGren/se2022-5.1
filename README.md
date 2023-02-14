@@ -55,7 +55,7 @@ Lớp kĩ thuật điện tử và tin học<br>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TungNguyen/Decorate/Decorate_Code/DecorateScene_MoveNext2.png">
 <hr/>
 <h2 style="justify:center">2. Match 3 Gameplay</h2>
-<h3>&nbsp&nbsp Vậy cách thức nào khiến bạn kiếm được những tài nguyên để bắt đầu trang trí. Trò chơi bắt đầu khi bạn nhất vào Button Play để bắt đầu vào game. Match 3 Game là trò chơi video xếp hình là một loại trò chơi điện tử giải đố trong đó người chơi điều khiển các ô xếp để làm cho chúng biến mất theo một tiêu chí phù hợp. Trong nhiều trò chơi ghép ô, tiêu chí đó là đặt một số ô nhất định cùng loại sao cho chúng liền kề nhau. Button được tìm hiểu tại branch<a href="https://github.com/KyoGren/se2022-5.1/tree/NguyenTrung" NguyenTrung</a></h3>
+<h3>&nbsp&nbsp Vậy cách thức nào khiến bạn kiếm được những tài nguyên để bắt đầu trang trí. Trò chơi bắt đầu khi bạn nhất vào Button Play để bắt đầu vào game. Match 3 Game là trò chơi video xếp hình là một loại trò chơi điện tử giải đố trong đó người chơi điều khiển các ô xếp để làm cho chúng biến mất theo một tiêu chí phù hợp. Trong nhiều trò chơi ghép ô, tiêu chí đó là đặt một số ô nhất định cùng loại sao cho chúng liền kề nhau. Button được tìm hiểu tại branch<a href="https://github.com/KyoGren/se2022-5.1/tree/NguyenTrung"> NguyenTrung</a></h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/NguyenTrung/Img/ButtonPlay.png">
 <h3>Khi bạn nhấn vào Button PlayGame, một cửa sổ PreGame sẽ được khởi tạo. Trong đó có chứa các khả năng đặc biệt để bắt đầu màn chơi, điều đó sẽ khiến bạn thấy bớt khó khăn hơn nếu muốn qua màn. Hoặc chỉ đơn giản là tắt nó đi để quay lại trang trí ngôi nhà</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/NguyenTrung/Img/PregameScreen.png">
