@@ -38,6 +38,9 @@ Lớp kĩ thuật điện tử và tin học<br>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/AnhQuan/HomeButton/Pic_1_Tongquan.png">
 <h3>Sau khi thực hiện thao tác nhấn, giao diện người dùng được chuyển tới màn hình lựa chọn phòng chơi(Room). Nhưng chúng thường sẽ chỉ mở khóa khi bạn trang trí đầy đủ tất cả map trước đó</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/AnhQuan/HomeButton/Pic_3_ScrollableSelectRoomScreen.png">
+<h3>Các Room chưa được mở khóa và điều kiện mở khóa Room</h3>
+<img src="https://github.com/KyoGren/se2022-5.1/blob/AnhQuan/HomeButton/Pic_7_RoomLocked.png">
+<img src="https://github.com/KyoGren/se2022-5.1/blob/AnhQuan/HomeButton/Pic_8_RoomPass.png">
 <h3>Nút bấm Setting có tác dụng để bạn điều chỉnh nhạc và mức độ âm thanh của trò chơi. Nó nằm ngay bên trên Button Home</h3>
 <img src="https://github.com/KyoGren/se2022-5.1/blob/TuanDo/ButtonSetting/1.jpg">
 <h3>Trong InGameSettingsScreen có nút thoát , nút chỉnh âm thanh, nhạc hoạt động với các chức năng thoát trở về màn hình chính, thay đổi tắt bật âm thanh, âm nhạc</h3>
